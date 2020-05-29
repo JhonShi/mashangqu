@@ -1,4 +1,4 @@
-<mxfile modified="2020-05-27T10:19:50.853Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="yU6yNpVT1-dVT14uKAVl" version="13.0.9" type="github" pages="9">
+<mxfile modified="2020-05-29T01:03:46.400Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="Cu6MZ5mEZMsXAAVO3C1L" version="13.0.9" type="github" pages="9">
   <diagram id="jTAe54ZyjJwtfc4nAxyl" name="第 1 页">
     <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1406,6 +1406,9 @@
         </mxCell>
         <mxCell id="ta3Eg2vfPEEkPtzbTs6x-0" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;background-color: #a7c942 ; color: #ffffff ; border: 1px solid #98bf21&quot;&gt;&lt;th align=&quot;left&quot;&gt;项目-我的订单列表&lt;/th&gt;&lt;th align=&quot;left&quot;&gt;订单状态&lt;/th&gt;&lt;th align=&quot;left&quot;&gt;服务状态&lt;/th&gt;&lt;td&gt;支付状态&lt;/td&gt;&lt;td&gt;申诉状态&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid #98bf21&quot;&gt;&lt;td&gt;待付款&lt;/td&gt;&lt;td&gt;Value 2&lt;/td&gt;&lt;td&gt;Value 3&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color: #eaf2d3 ; border: 1px solid #98bf21&quot;&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Value 5&lt;/td&gt;&lt;td&gt;Value 6&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid #98bf21&quot;&gt;&lt;td&gt;Value 7&lt;/td&gt;&lt;td&gt;Value 8&lt;/td&gt;&lt;td&gt;Value 9&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color: #eaf2d3 ; border: 1px solid #98bf21&quot;&gt;&lt;td&gt;Value 10&lt;/td&gt;&lt;td&gt;Value 11&lt;/td&gt;&lt;td&gt;Value 12&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#c0c0c0;fillColor=#ffffff;overflow=fill;rounded=0;" vertex="1" parent="gzwFqyfGK-uDYaS1me7V-1">
           <mxGeometry x="40" y="880" width="760" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="qHD_d884tmipKH75HR1Z-0" value="&lt;h1&gt;退款与申诉-服务费&lt;/h1&gt;&lt;p&gt;1.团开始前的退款只按照惩罚梯度扣费,不另外收取服务费。&lt;/p&gt;&lt;p&gt;2.团开始后的申诉退款，要收取服务费。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="gzwFqyfGK-uDYaS1me7V-1">
+          <mxGeometry x="40" y="1060" width="700" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
