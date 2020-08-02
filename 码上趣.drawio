@@ -1,4 +1,4 @@
-<mxfile modified="2020-08-02T06:35:19.699Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="0sD3iwMhk4Uz5MxZE0XJ" version="13.5.8" type="github" pages="10">
+<mxfile modified="2020-08-02T07:12:37.354Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="DJODmkAGTe2hFRJR7U2J" version="13.5.8" type="github" pages="10">
   <diagram id="jTAe54ZyjJwtfc4nAxyl" name="第 1 页">
     <mxGraphModel dx="946" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -2086,7 +2086,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="j5Xy5ighbLTfV_94SJRU" name="第 10 页">
-    <mxGraphModel dx="2037" dy="1101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ZESNrTIMfLLOc-SNoZ-R-0" />
         <mxCell id="ZESNrTIMfLLOc-SNoZ-R-1" parent="ZESNrTIMfLLOc-SNoZ-R-0" />
@@ -2322,6 +2322,119 @@
         </mxCell>
         <mxCell id="ZESNrTIMfLLOc-SNoZ-R-70" value="缺失状态" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ZESNrTIMfLLOc-SNoZ-R-1">
           <mxGeometry x="260" y="770" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#005700;strokeWidth=5;fillColor=#008a00;" edge="1" parent="ZESNrTIMfLLOc-SNoZ-R-1" source="ZESNrTIMfLLOc-SNoZ-R-71" target="ZESNrTIMfLLOc-SNoZ-R-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-71" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="ZESNrTIMfLLOc-SNoZ-R-1">
+          <mxGeometry x="50" y="1045" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-72" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#005700;fillColor=#008a00;strokeWidth=5;" edge="1" source="ZESNrTIMfLLOc-SNoZ-R-71" parent="ZESNrTIMfLLOc-SNoZ-R-1" target="ZESNrTIMfLLOc-SNoZ-R-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-74" value="村长服务状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZESNrTIMfLLOc-SNoZ-R-1">
+          <mxGeometry x="50" y="990" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-75" value="代发货" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="ZESNrTIMfLLOc-SNoZ-R-1">
+          <mxGeometry x="230" y="1040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-76" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#BD7000;fillColor=#f0a30a;strokeWidth=5;" edge="1" source="ZESNrTIMfLLOc-SNoZ-R-75" parent="ZESNrTIMfLLOc-SNoZ-R-1" target="ZESNrTIMfLLOc-SNoZ-R-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-77" value="已发货" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="ZESNrTIMfLLOc-SNoZ-R-1">
+          <mxGeometry x="520" y="1040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-78" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#B09500;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e3c800;strokeWidth=5;" edge="1" source="ZESNrTIMfLLOc-SNoZ-R-77" parent="ZESNrTIMfLLOc-SNoZ-R-1" target="ZESNrTIMfLLOc-SNoZ-R-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0e8088;strokeWidth=5;fillColor=#b0e3e6;" edge="1" parent="ZESNrTIMfLLOc-SNoZ-R-1" source="ZESNrTIMfLLOc-SNoZ-R-79" target="ZESNrTIMfLLOc-SNoZ-R-89">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="1220" />
+              <mxPoint x="710" y="1220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-79" value="待退款" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="ZESNrTIMfLLOc-SNoZ-R-1">
+          <mxGeometry x="870" y="1040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-80" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#0e8088;fillColor=#b0e3e6;strokeWidth=5;" edge="1" source="ZESNrTIMfLLOc-SNoZ-R-79" parent="ZESNrTIMfLLOc-SNoZ-R-1" target="ZESNrTIMfLLOc-SNoZ-R-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-83" value="用户支付完成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZESNrTIMfLLOc-SNoZ-R-1">
+          <mxGeometry x="110" y="1030" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-84" value="村长发货" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZESNrTIMfLLOc-SNoZ-R-1">
+          <mxGeometry x="390" y="1030" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-85" value="用户申诉" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZESNrTIMfLLOc-SNoZ-R-1">
+          <mxGeometry x="700" y="1030" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=5;" edge="1" parent="ZESNrTIMfLLOc-SNoZ-R-1" source="ZESNrTIMfLLOc-SNoZ-R-86" target="ZESNrTIMfLLOc-SNoZ-R-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-86" value="已结束:已完成" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="ZESNrTIMfLLOc-SNoZ-R-1">
+          <mxGeometry x="450" y="1260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=5;" edge="1" parent="ZESNrTIMfLLOc-SNoZ-R-1" source="ZESNrTIMfLLOc-SNoZ-R-88" target="ZESNrTIMfLLOc-SNoZ-R-97">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="65" y="1405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-88" value="已结束:交易取消" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="ZESNrTIMfLLOc-SNoZ-R-1">
+          <mxGeometry x="5" y="1260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=5;" edge="1" parent="ZESNrTIMfLLOc-SNoZ-R-1" source="ZESNrTIMfLLOc-SNoZ-R-89" target="ZESNrTIMfLLOc-SNoZ-R-97">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="1405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-89" value="已结束:申诉成功" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="ZESNrTIMfLLOc-SNoZ-R-1">
+          <mxGeometry x="650" y="1260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=5;" edge="1" parent="ZESNrTIMfLLOc-SNoZ-R-1" source="ZESNrTIMfLLOc-SNoZ-R-90" target="ZESNrTIMfLLOc-SNoZ-R-97">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="1405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-90" value="已结束:申诉失败" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="ZESNrTIMfLLOc-SNoZ-R-1">
+          <mxGeometry x="870" y="1260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=5;" edge="1" parent="ZESNrTIMfLLOc-SNoZ-R-1" source="ZESNrTIMfLLOc-SNoZ-R-91" target="ZESNrTIMfLLOc-SNoZ-R-97">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="1390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-91" value="已结束:拼团失败" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="ZESNrTIMfLLOc-SNoZ-R-1">
+          <mxGeometry x="240" y="1260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-93" value="用户取消订单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZESNrTIMfLLOc-SNoZ-R-1">
+          <mxGeometry x="10" y="1160" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-94" value="村长拒绝/平台拒绝" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZESNrTIMfLLOc-SNoZ-R-1">
+          <mxGeometry x="940" y="1190" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-96" value="村长同意/平台同意" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZESNrTIMfLLOc-SNoZ-R-1">
+          <mxGeometry x="760" y="1190" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-97" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="ZESNrTIMfLLOc-SNoZ-R-1">
+          <mxGeometry x="460" y="1390" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
