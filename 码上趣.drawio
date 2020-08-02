@@ -1,4 +1,4 @@
-<mxfile modified="2020-08-02T07:12:37.354Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="DJODmkAGTe2hFRJR7U2J" version="13.5.8" type="github" pages="10">
+<mxfile modified="2020-08-02T07:15:10.818Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="0fDgvP5xIPa0OumP5btM" version="13.5.8" type="github" pages="10">
   <diagram id="jTAe54ZyjJwtfc4nAxyl" name="第 1 页">
     <mxGraphModel dx="946" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -2086,7 +2086,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="j5Xy5ighbLTfV_94SJRU" name="第 10 页">
-    <mxGraphModel dx="1426" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ZESNrTIMfLLOc-SNoZ-R-0" />
         <mxCell id="ZESNrTIMfLLOc-SNoZ-R-1" parent="ZESNrTIMfLLOc-SNoZ-R-0" />
@@ -2391,7 +2391,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-88" value="已结束:交易取消" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="ZESNrTIMfLLOc-SNoZ-R-1">
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-88" value="已结束:交易取消" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="ZESNrTIMfLLOc-SNoZ-R-1">
           <mxGeometry x="5" y="1260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZESNrTIMfLLOc-SNoZ-R-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=5;" edge="1" parent="ZESNrTIMfLLOc-SNoZ-R-1" source="ZESNrTIMfLLOc-SNoZ-R-89" target="ZESNrTIMfLLOc-SNoZ-R-97">
@@ -2421,7 +2421,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-91" value="已结束:拼团失败" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="ZESNrTIMfLLOc-SNoZ-R-1">
+        <mxCell id="ZESNrTIMfLLOc-SNoZ-R-91" value="已结束:拼团失败" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="ZESNrTIMfLLOc-SNoZ-R-1">
           <mxGeometry x="240" y="1260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZESNrTIMfLLOc-SNoZ-R-93" value="用户取消订单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZESNrTIMfLLOc-SNoZ-R-1">
