@@ -1,4 +1,4 @@
-<mxfile modified="2021-12-22T09:12:31.290Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="wp0xyDS2PRXRnZlJW2zg" version="16.0.3" type="github" pages="11">
+<mxfile modified="2021-12-23T04:40:26.796Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="s_svSdgwYq9Ksa2GHUcd" version="16.0.3" type="github" pages="11">
   <diagram id="jTAe54ZyjJwtfc4nAxyl" name="第 1 页">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -328,7 +328,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="退款流程" id="bNwa4RdH8N6Sgyls0M2o">
-    <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="FkybZIT21shtJJNdVw7w-0" />
         <mxCell id="FkybZIT21shtJJNdVw7w-1" parent="FkybZIT21shtJJNdVw7w-0" />
@@ -580,7 +580,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lO77C-XHviVGJUoh431G" name="第 2 页">
-    <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="UhLbPeQ0SlxB97bndx_U-0" />
         <mxCell id="UhLbPeQ0SlxB97bndx_U-1" parent="UhLbPeQ0SlxB97bndx_U-0" />
@@ -1819,7 +1819,7 @@
             <mxPoint x="500" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVpyqcblR8-JxzSBGA_7-20" value="医生接单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="a8KQxvI5SvTiBtslNFY_-1">
+        <mxCell id="fVpyqcblR8-JxzSBGA_7-20" value="医生接单" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="a8KQxvI5SvTiBtslNFY_-1">
           <mxGeometry x="110" y="510" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fVpyqcblR8-JxzSBGA_7-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="a8KQxvI5SvTiBtslNFY_-1" source="fVpyqcblR8-JxzSBGA_7-21" target="fVpyqcblR8-JxzSBGA_7-25">
@@ -1848,16 +1848,16 @@
         <mxCell id="fVpyqcblR8-JxzSBGA_7-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="a8KQxvI5SvTiBtslNFY_-1" source="fVpyqcblR8-JxzSBGA_7-25" target="fVpyqcblR8-JxzSBGA_7-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fVpyqcblR8-JxzSBGA_7-25" value="已拒单" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="a8KQxvI5SvTiBtslNFY_-1">
+        <mxCell id="fVpyqcblR8-JxzSBGA_7-25" value="已拒单:1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="a8KQxvI5SvTiBtslNFY_-1">
           <mxGeometry x="210" y="1150" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fVpyqcblR8-JxzSBGA_7-28" value="医生接单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="a8KQxvI5SvTiBtslNFY_-1">
+        <mxCell id="fVpyqcblR8-JxzSBGA_7-28" value="医生接单" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="a8KQxvI5SvTiBtslNFY_-1">
           <mxGeometry x="364" y="995" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fVpyqcblR8-JxzSBGA_7-29" value="医生拒单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="a8KQxvI5SvTiBtslNFY_-1">
+        <mxCell id="fVpyqcblR8-JxzSBGA_7-29" value="医生拒单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="a8KQxvI5SvTiBtslNFY_-1">
           <mxGeometry x="110" y="1130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fVpyqcblR8-JxzSBGA_7-31" value="医生拒单，用户超时未支付，用户取消，医生超时取消，医生手动结束" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="a8KQxvI5SvTiBtslNFY_-1">
+        <mxCell id="fVpyqcblR8-JxzSBGA_7-31" value="用户超时未支付，用户取消，医生超时取消，医生手动结束" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="a8KQxvI5SvTiBtslNFY_-1">
           <mxGeometry x="120" y="620" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fVpyqcblR8-JxzSBGA_7-32" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="a8KQxvI5SvTiBtslNFY_-1">
@@ -1929,6 +1929,12 @@
         </mxCell>
         <mxCell id="fVpyqcblR8-JxzSBGA_7-51" value="用户评价，医生发送服务记录或手动结束" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="a8KQxvI5SvTiBtslNFY_-1">
           <mxGeometry x="960" y="520" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fVpyqcblR8-JxzSBGA_7-52" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="a8KQxvI5SvTiBtslNFY_-1">
+          <mxGeometry x="660" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fVpyqcblR8-JxzSBGA_7-53" value="医生拒单" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="a8KQxvI5SvTiBtslNFY_-1">
+          <mxGeometry x="110" y="675" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
